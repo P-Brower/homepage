@@ -3,8 +3,8 @@ title: PBrower
 tagline: Tinker
 url: https://pbrower.com
 paginate: 1
-baseurl: ""
 permalink: pretty
+baseurl: "/"
 repository: P-Brower/homepage
 
 # Gems
@@ -28,9 +28,6 @@ sass:
   implementation: sass-embedded
 
 # Options
-
-# Replace this value and uncomment to enable Google Analytics tracking
-# ga_analytics: UA-000000-0
 
 # Specify the author for blog posts
 author:
