@@ -1,0 +1,64 @@
+// Masthead
+//
+// Super small header above the content for site name and short description.
+
+.masthead {
+  padding-top: var(--spacer);
+  padding-bottom: var(--spacer);
+  margin-bottom: var(--spacer-3);
+}
+
+.masthead-title {
+  margin-bottom: 0;
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  small {
+    font-weight: 400;
+    opacity: .5;
+  }
+}
+
+/* Masthead nav */
+.masthead-nav {
+  margin-bottom: 1rem;
+}
+.masthead-nav-item {
+  display: inline-block;
+  line-height: 1.75;
+  text-decoration: none;
+  color: inherit;
+}
+a.masthead-nav-item:hover,
+a.masthead-nav-item:focus {
+  text-decoration: underline;
+}
+.masthead-nav-item.active {
+  font-weight: bold;
+}
+
+/* Sidebar Social Icons */
+#social-media {
+    text-align: right;
+    float: right;
+    margin-bottom: .25rem;
+}
+#social-media .fab,
+#social-media .fas,
+#social-media .fa-brands,
+#social-media .fa-regular,
+#social-media .fa-solid {
+      padding:  5px;
+      font-size: 1rem;
+  }
+#social-media .fab:hover,
+#social-media .fas:hover,
+#social-media .fa-brands:hover,
+#social-media .fa-regular:hover,
+#social-media .fa-solid:hover {
+    color: var(--grape);
+}
+  

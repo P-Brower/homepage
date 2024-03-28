@@ -1,0 +1,65 @@
+# Setup
+title: PBrower
+tagline: Tinker
+url: https://pbrower.com
+paginate: 1
+baseurl: "/"
+permalink: pretty
+repo: https://github.com/pbrower84/page
+
+# Gems
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+# Optimize Jekyll
+exclude:
+  - .editorconfig
+  - .git
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+# Options
+
+# Replace this value and uncomment to enable Google Analytics tracking
+# ga_analytics: UA-000000-0
+
+# Specify the author for blog posts
+author:
+  name: Patrick Brower
+  url: pbrower.com
+  email: patrick.brower@pm.me
+
+# Custom vars
+version: 1.0.0
+
+# Social Media Profiles
+socialmedia:
+
+  - title: GitHub
+    link: https://github.com/NuteBurn/nuteburn.github.io
+    user: pbrower
+    fa-icon: 'fab fa-github'
+
+  - title: Mastodon
+    link: https://bigshoulders.city/@pbrower
+    user: pbrower
+    fa-icon: 'fab fa-mastodon'
+
+  - title: Email
+    link: "mailto:Patrick@pbrower.com"
+    user: Patrick
+    fa-icon: 'fa-regular fa-envelope'
+  
+  - title: LinkedIn
+    link: "https://www.linkedin.com/in/patrickbrower"
+    user: Patrick Brower
+    fa-icon: 'fa-brands fa-linkedin-in'    
