@@ -3,8 +3,8 @@ title: PBrower
 tagline: Tinker
 url: https://pbrower.com
 paginate: 1
-baseurl: "/"
-permalink: /:title
+baseurl: ""
+permalink: pretty
 repository: P-Brower/homepage
 
 # Gems
