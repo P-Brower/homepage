@@ -6,11 +6,11 @@ title: Resume
 ## Skill Sets
 ### Technical Skills
 
-Microsoft Administration, Active Directory, Ubuntu/Linux, HyperV, Docker,  E-Learning Management, Web Hosting, Wordpress, Wix, SquareSpace, Github Pages, Jekyll, Shopify, Lastpass Administration, Ticket Management, Git & Github, PowerShell, Hardware Deployment & Provisioning, Asset Management, Computer Repair & Maintenance 
+Microsoft Administration, Active Directory, Ubuntu/Linux, HyperV, Docker,  E-Learning Management, Web Hosting, Wordpress, Wix, SquareSpace, Github Pages, Jekyll, Shopify, LastPass Administration, Ticket Management, Git & Github, PowerShell, Hardware Deployment & Provisioning, Asset Management, Computer Repair & Maintenance 
 
 ### Soft Skills
 
-Detail Focused, Problem Solver, Collaborator, End User Focused, Documentation Minded, Active Listener, Budget Conscious, Adaptive, Privacy Minded, User Support   
+Problem Solver, Collaborator, End User Focused, Documentation Minded, Active Listener, Budget Conscious, Detail Focused, Adaptive, Privacy Minded, User Support   
 
 ## Professional Experience
 ### JUMPSTART FOR YOUNG CHILDREN								 
@@ -28,7 +28,7 @@ Detail Focused, Problem Solver, Collaborator, End User Focused, Documentation Mi
 
 *Chicago, IL  \| Sept. 2017 - July 2023*  
 
- * Managed and support Jumpstarts learning ecosystem, including LearnDash and EasyGenerator
+ * Managed and support Jumpstart's learning ecosystem, including LearnDash and EasyGenerator
  * Updated and maintained the Wordpress based LMS, with more than 100 e-learning courses
  * Coordinated interdepartmentally to insure learning content is ready for publication
  * Leveraged hands on training to learn new technologies, including SQL, CSS, HTML, Wordpress, and GIT
@@ -77,9 +77,9 @@ Detail Focused, Problem Solver, Collaborator, End User Focused, Documentation Mi
 ## Education
 ### ROWAN UNIVERSITY											  
 
-*BA. Humanities/Social Science \| Glassboro, NJ \| Jan. 2010- Dec. 2013*  
+*BA. Humanities/Social Science \| Glassboro, NJ \| Dec. 2013*  
 
 ### OCEAN COUNTY VOCATIONAL TECHNICAL SCHOOL							  
 
-*A+ Certification \| Toms River, NJ \| Aug. 2007-May 2008*  
+*A+ Certification \| Toms River, NJ \| May 2008*  
 
