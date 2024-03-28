@@ -3,13 +3,12 @@ title: PBrower
 tagline: Tinker
 url: https://pbrower.com
 paginate: 1
-baseurl: "/"
-permalink: pretty
-repo: https://github.com/pbrower84/page
+baseurl: '/'
+permalink: /:title
+repository: P-Brower/homepage
 
 # Gems
 plugins:
-  - jekyll-gist
   - jekyll-paginate
   - jekyll-seo-tag
 
@@ -26,6 +25,7 @@ exclude:
 sass:
   sass_dir: _sass
   style: :compressed
+  implementation: sass-embedded
 
 # Options
 
@@ -44,22 +44,19 @@ version: 1.0.0
 # Social Media Profiles
 socialmedia:
 
+  - title: LinkedIn
+    link: "https://www.linkedin.com/in/patrickbrower"
+    user: Patrick Brower
+    fa-icon: 'fa-brands fa-linkedin-in'    
+
   - title: GitHub
-    link: https://github.com/NuteBurn/nuteburn.github.io
+    link: https://github.com/P-Brower
     user: pbrower
     fa-icon: 'fab fa-github'
-
-  - title: Mastodon
-    link: https://bigshoulders.city/@pbrower
-    user: pbrower
-    fa-icon: 'fab fa-mastodon'
 
   - title: Email
     link: "mailto:Patrick@pbrower.com"
     user: Patrick
     fa-icon: 'fa-regular fa-envelope'
   
-  - title: LinkedIn
-    link: "https://www.linkedin.com/in/patrickbrower"
-    user: Patrick Brower
-    fa-icon: 'fa-brands fa-linkedin-in'    
+  
