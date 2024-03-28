@@ -3,7 +3,7 @@ title: PBrower
 tagline: Tinker
 url: https://pbrower.com
 paginate: 1
-baseurl: '/'
+baseurl: "/"
 permalink: /:title
 repository: P-Brower/homepage
 
