@@ -18,9 +18,9 @@ Problem Solver, Collaborator, End User Focused, Documentation Minded, Active Lis
 
 *Chicago, IL  \| July 2023 - March 2024*  
 
- * Managed the technical ecosystem, including Microsoft's Online Suite, Active Directory, Confluence, and Meraki 
+ * Managed the technical systems, including Microsoft's Online Suite, Active Directory, Confluence, Meraki, and HyperV 
  * Provided remote support to the Senior Support Manager to assist with higher tier tickets 
- * Acted as department lead while Director of Technology was vacant, by working directly with leadership
+ * Acted as department lead while Director of Technology was vacant, working directly with leadership
  * Collaborated cross-departmentally to stay up-to-date with technical requests and foster open communication
 
 
@@ -30,15 +30,17 @@ Problem Solver, Collaborator, End User Focused, Documentation Minded, Active Lis
 
  * Managed and support Jumpstart's learning ecosystem, including LearnDash and EasyGenerator
  * Updated and maintained the Wordpress based LMS, with more than 100 e-learning courses
- * Coordinated interdepartmentally to insure learning content is ready for publication
+ * Coordinated cross-departmentally to insure learning content is ready for publication
  * Leveraged hands on training to learn new technologies, including SQL, CSS, HTML, Wordpress, and GIT
+ * Advised and collaborated on multiple large scale projects, including implementing LinkedIn Learning
+ * Planned and managed the decommission of an outdated Learning Management System
 
 ### CITIZEN SCHOOLS							  	         
 #### Help Desk Associate
 
 *Boston, MA \| Sept. 2016 - Sept.2017*  
 
- * Provided remote and in-person support for helpdesk tickets through Salesforce and walk-up requests
+ * Provided remote and in-person support for help desk tickets through Salesforce and walk-up requests
  * Developed Powershell scripts to create, modify, and decommission user accounts in bulk for Active Directory 
  * Built, implemented, and documented a virtual Linux FOG  server to deploy computer images using Hyper-V
  * Managed and maintained a fleet of over 300 laptops with tools like Group Policy, Team Viewer, and Sophos
@@ -72,7 +74,7 @@ Problem Solver, Collaborator, End User Focused, Documentation Minded, Active Lis
 *Oceanport , NJ \| June 2011-July 2013*  
 
  * Supported a diverse group of clients with different levels of technical and industry  knowledge
- * Provided technical support for various types of computer betting machines
+ * Provided technical and hardware support for various types of computer betting machines
 
 ## Education
 ### ROWAN UNIVERSITY											  
