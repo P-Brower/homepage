@@ -13,6 +13,9 @@
                 {% if node.layout == "page" %}
                 <i>| </i><a class="masthead-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{node.title}}</a>
                 {% endif %}
+                {% if page.title == "Resume" and node.title == page.title %}
+                <a class="masthead-nav-item" title="print" id="printer" href="javascript:window.print();"><i class="fa-solid fa-print"></i></a>
+                {% endif %}
             {% endif %}
         {% endfor %}
     </nav>
