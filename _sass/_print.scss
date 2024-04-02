@@ -2,8 +2,10 @@
     // These settings are for printing
 
     //Content
+    .page-title{ visibility: hidden;}
     .page-title::before{
-        content: 'Patrick Brower | ';
+        content: 'Patrick Brower | patrick@pbrower.com';
+        visibility: visible;
     }
     
     //Formatting

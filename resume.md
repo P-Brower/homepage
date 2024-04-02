@@ -29,8 +29,8 @@ Problem Solver, Collaborator, End User Focused, Documentation Minded, Active Lis
 *Chicago, IL  \| Sept. 2017 - July 2023*  
 
  * Managed and support Jumpstart's learning ecosystem, including LearnDash and EasyGenerator
- * Updated and maintained the Wordpress based LMS, with more than 100 e-learning courses
- * Coordinated cross-departmentally to insure learning content is ready for publication
+ * Updated and maintained the Wordpress based LMS, with 100s of e-learning courses over 1000 users
+ * Coordinated cross-departmentally to ensure learning content is ready for publication
  * Leveraged hands on training to learn new technologies, including SQL, CSS, HTML, Wordpress, and GIT
  * Advised and collaborated on multiple large scale projects, including implementing LinkedIn Learning
  * Planned and managed the decommission of an outdated Learning Management System
