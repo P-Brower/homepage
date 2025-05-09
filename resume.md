@@ -3,23 +3,34 @@ layout: page
 title: Resume
 ---
 
-## Skill Sets
-### Technical Skills
+### Blurb
 
-Microsoft Administration, Active Directory, Ubuntu/Linux, HyperV, Docker,  E-Learning Management, Web Hosting, Wordpress, Wix, SquareSpace, Github Pages, Jekyll, Shopify, LastPass Administration, Ticket Management, Git & Github, PowerShell, Hardware Deployment & Provisioning, Asset Management, Computer Repair & Maintenance 
+An adaptive problem solver, and collaborator, with over 10 years of experience working in non-profit organizations. Focused on user experience, privacy, documentation, supporting users, and maximizing technology.   
 
-### Soft Skills
+### Technical Experience
 
-Problem Solver, Collaborator, End User Focused, Documentation Minded, Active Listener, Budget Conscious, Detail Focused, Adaptive, Privacy Minded, User Support   
+Active Directory, Asset Management, Computer Repair & Maintenance, Docker, E-Learning Management, Github Pages, Git & Github, Hardware Deployment & Provisioning, HyperV, LastPass Administration, Microsoft Administration, Postman, Power Automate, Power BI, PowerShell, SquareSpace, Ticket Management, Ubuntu/Linux, Web Hosting, Wix, Wordpress, Shopify.
 
 ## Professional Experience
+
+### The Joint Commission Resources
+#### Learning System Administrator  
+
+*Oakbrook Terrace, IL  \| Nov 2024 - Present*
+  
+  * Main Administrator for the enterprise's external facing LMS
+  * Builds and implements Power BI reports using our LMS's API and Postman 
+  * Innovating old manual processes with Power Automate to streamline work flows
+  * Acts as liaison with our LMS vendor and other Saas services 
+
+
 ### JUMPSTART FOR YOUNG CHILDREN								 
 #### Systems Administrator
 
 *Chicago, IL  \| July 2023 - March 2024*  
 
  * Managed the technical systems, including Microsoft's Online Suite, Active Directory, Confluence, Meraki, and HyperV 
- * Provided remote support to the Senior Support Manager to assist with higher tier tickets 
+ * Provided remote support to the Senior Support Manager to assist with T2 and T3 tickets 
  * Acted as department lead while Director of Technology was vacant, working directly with leadership
  * Collaborated cross-departmentally to stay up-to-date with technical requests and foster open communication
 
@@ -33,7 +44,6 @@ Problem Solver, Collaborator, End User Focused, Documentation Minded, Active Lis
  * Coordinated cross-departmentally to ensure learning content is ready for publication
  * Leveraged hands on training to learn new technologies, including SQL, CSS, HTML, Wordpress, and GIT
  * Advised and collaborated on multiple large scale projects, including implementing LinkedIn Learning
- * Planned and managed the decommission of an outdated Learning Management System
 
 ### CITIZEN SCHOOLS							  	         
 #### Help Desk Associate
@@ -46,35 +56,22 @@ Problem Solver, Collaborator, End User Focused, Documentation Minded, Active Lis
  * Managed and maintained a fleet of over 300 laptops with tools like Group Policy, Team Viewer, and Sophos
 
 ### CITY YEAR BOSTON								  
-#### Senior Americorps Member - Service Leader at the Civic Engagement Team
+#### Americorps Member
 
-*Boston, MA  \| July 2015 - June 2016*  
+*Boston, MA  \| Aug 2014 - June 2016*  
 
  * Collaborated on a small team of 6 Service leaders to plan and execute over 30 service events
  * Engaged City Year Boston’s corporate sponsors in physical service projects to support students across Boston
  * Monitored data entry of volunteer experience surveys to measure the effectiveness of service projects	
 
-#### Americorps Member
-
-*Boston, MA  \| Aug. 2014- June 2015*  
-
- * Managed a cohort of 23 students in the 6th grade at the McCormack Middle School in Dorchester, MA
- * Led teams of 10-12 volunteers on 4 physical service projects across Boston with the Civic Engagement Team
-
 ### SPORTECH												   
 #### Data Center Operator
 
-*Mt. Laurel, NJ  \| July 2013-June 2014*  
+*Mt. Laurel, NJ  \| June 2011-June 2014*  
 
  * Maintained daily racing data input into a Linux based betting system  
  * Collaborated on a small night-shift team of 6 to execute daily system related maintenance.
-
-#### Technical Support
-
-*Oceanport , NJ \| June 2011-July 2013*  
-
- * Supported a diverse group of clients with different levels of technical and industry  knowledge
- * Provided technical and hardware support for various types of computer betting machines
+ * Supported a diverse group of clients with different levels of technical and industry knowledge
 
 ## Education
 ### ROWAN UNIVERSITY											  
